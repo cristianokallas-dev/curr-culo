@@ -1,1 +1,1 @@
-# curr-culo
+Curriculo desenvolvido em HTML, CSS e Javascript
